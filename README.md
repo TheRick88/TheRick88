@@ -1,4 +1,10 @@
-### Hi there 👋
+Hello 👋
+
+My name is Rick, I currently live in :belgium: and
+I am starting my programming carreer with <b>Hack your future!</b> 💻
+
+I am looking forward to meet you guys! 😃
+
 
 <!--
 **TheRick88/TheRick88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
